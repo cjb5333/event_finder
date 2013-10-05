@@ -103,18 +103,7 @@ namespace EventSearcher.Resources
         }
 
         /// <summary>
-        ///   Looks up a localized string similar to Sample Runtime Property Value.
-        /// </summary>
-        public static string SampleProperty
-        {
-            get
-            {
-                return ResourceManager.GetString("SampleProperty", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to button text.
+        ///   Looks up a localized string similar to button.
         /// </summary>
         public static string AppBarButtonText
         {

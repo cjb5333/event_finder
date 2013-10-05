@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US" />
-  <App xmlns="" ProductID="{30d1ef01-ae71-4a31-a474-ae86c793766d}" Title="EventSearcher" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="EventSearcher author" Description="Sample description" Publisher="EventSearcher" PublisherID="{a0f009d2-9eb9-4e32-9799-6f63992a52a0}">
+  <App xmlns="" ProductID="{68707722-dc67-4f9d-9a9d-6ec9c3b5023d}" Title="EventSearcher" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="EventSearcher author" Description="Sample description" Publisher="EventSearcher" PublisherID="{7fabbbb7-4508-4725-8915-e107f720e224}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING" />
