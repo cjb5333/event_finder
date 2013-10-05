@@ -1,0 +1,12 @@
+﻿<xapCache source="c:\users\david\documents\visual studio 2012\Projects\EventSearcher\Bin\Debug\EventSearcher_Debug_AnyCPU.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="10/5/2013 1:12:52 AM">
+  <file source="c:\users\david\documents\visual studio 2012\Projects\EventSearcher\obj\Debug\EventSearcher.dll" archivePath="EventSearcher.dll" lastWriteTime="10/5/2013 1:12:49 AM" />
+  <file source="c:\users\david\documents\visual studio 2012\Projects\EventSearcher\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="10/5/2013 1:12:21 AM" />
+  <file source="c:\users\david\documents\visual studio 2012\Projects\EventSearcher\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="10/5/2013 1:12:21 AM" />
+  <file source="c:\users\david\documents\visual studio 2012\Projects\EventSearcher\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="10/5/2013 1:12:21 AM" />
+  <file source="c:\users\david\documents\visual studio 2012\Projects\EventSearcher\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="10/5/2013 1:12:21 AM" />
+  <file source="c:\users\david\documents\visual studio 2012\Projects\EventSearcher\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="10/5/2013 1:12:21 AM" />
+  <file source="c:\users\david\documents\visual studio 2012\Projects\EventSearcher\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="10/5/2013 1:12:50 AM" />
+  <file source="c:\users\david\documents\visual studio 2012\Projects\EventSearcher\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="10/5/2013 1:12:21 AM" />
+  <file source="c:\users\david\documents\visual studio 2012\Projects\EventSearcher\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="10/5/2013 1:12:21 AM" />
+  <file source="c:\users\david\documents\visual studio 2012\Projects\EventSearcher\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="10/5/2013 1:12:52 AM" />
+</xapCache>
